@@ -20,11 +20,11 @@
 * Arduino UNO
   
 * LED
-  ใส่รูป
+  ![3](https://inwfile.com/s-fg/iqahqt.jpg)
 * Jumper Wires
-  ใส่รูป
+  ![3](https://static.cytron.io/image/cache/catalog/products/WR-JW-40/Raspberry-Pi-3-Dupont-Line-120pcs-20cm-Male-to-Male-Male-to-Female-Female-to-Female-800x800.jpg)
 * DHT22 AM2302 Module
-  ใส่รูป
+  ![3](https://raspberrypithailand.com/storage/images/4m8HEfpyZUzyQQY77EO0vit7oe6d2XOk8zVsOBhR.jpg)
 * MQ-2 Smoke Gas Sensor
   ![3](https://www.tido.tech/wp-content/uploads/2020/09/l1.jpg)
 
