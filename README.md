@@ -17,21 +17,16 @@
 # ประโยชน์
 &emsp;&emsp;สามารถป้องกันการลุกลามของเพลิงไหม้ที่อาจก่อให้เกิดเพลิงไหม้บริเวณได้ ได้รับความรู้จากการฝึกเขียนโปรแกรมด้วย ภาษา C ได้รับความรู้จากการฝึกต่อบอร์ด Arduino และสามารถนำมาประยุกต์ใช้ได้จริง
 # อุปกรณ์
-* Arduino UNO
-* 
-  ![3](https://dm.lnwfile.com/_/dm/_raw/ag/z7/x1.jpg)
-* LED
-* 
-  ![3](https://inwfile.com/s-fg/iqahqt.jpg)
-* Jumper Wires
-* 
-  ![3](https://static.cytron.io/image/cache/catalog/products/WR-JW-40/Raspberry-Pi-3-Dupont-Line-120pcs-20cm-Male-to-Male-Male-to-Female-Female-to-Female-800x800.jpg)
-* DHT22 AM2302 Module
-* 
-  ![3](https://raspberrypithailand.com/storage/images/4m8HEfpyZUzyQQY77EO0vit7oe6d2XOk8zVsOBhR.jpg)
-* MQ-2 Smoke Gas Sensor
-* 
-  ![3](https://www.tido.tech/wp-content/uploads/2020/09/l1.jpg)
+* Arduino UNO <br/>
+  ![3](https://dm.lnwfile.com/_/dm/_raw/ag/z7/x1.jpg) <br/>
+* LED <br/>
+  ![3](https://inwfile.com/s-fg/iqahqt.jpg) <br/>
+* Jumper Wires <br/>
+  ![3](https://static.cytron.io/image/cache/catalog/products/WR-JW-40/Raspberry-Pi-3-Dupont-Line-120pcs-20cm-Male-to-Male-Male-to-Female-Female-to-Female-800x800.jpg) <br/>
+* DHT22 AM2302 Module <br/>
+  ![3](https://raspberrypithailand.com/storage/images/4m8HEfpyZUzyQQY77EO0vit7oe6d2XOk8zVsOBhR.jpg) <br/>
+* MQ-2 Smoke Gas Sensor <br/>
+  ![3](https://www.tido.tech/wp-content/uploads/2020/09/l1.jpg) <br/>
 
 # หลักการทำงาน
 1.     เมื่ออุณหภูมิสูงขึ้นและมีการเกิดควัน
@@ -40,7 +35,7 @@
 
 
 # Youtube สาธิตการทำงาน
--ลิงก์
+[(https://youtu.be/x0eEku9MZAM?si=S6bpmrmP42znV-e0)](https://youtu.be/x0eEku9MZAM?si=S6bpmrmP42znV-e0)
 
 # Source Code
 ใส่รูป
