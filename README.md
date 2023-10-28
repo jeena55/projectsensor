@@ -26,7 +26,7 @@
 * DHT22 AM2302 Module
   ใส่รูป
 * MQ-2 Smoke Gas Sensor
-  ใส่รูป
+  [ใส่รูป](https://www.tido.tech/wp-content/uploads/2020/09/l1.jpg)
 
 # หลักการทำงาน
 1.     เมื่ออุณหภูมิสูงขึ้นและมีการเกิดควัน
