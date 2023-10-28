@@ -18,14 +18,19 @@
 &emsp;&emsp;สามารถป้องกันการลุกลามของเพลิงไหม้ที่อาจก่อให้เกิดเพลิงไหม้บริเวณได้ ได้รับความรู้จากการฝึกเขียนโปรแกรมด้วย ภาษา C ได้รับความรู้จากการฝึกต่อบอร์ด Arduino และสามารถนำมาประยุกต์ใช้ได้จริง
 # อุปกรณ์
 * Arduino UNO
+* 
   ![3](https://dm.lnwfile.com/_/dm/_raw/ag/z7/x1.jpg)
 * LED
+* 
   ![3](https://inwfile.com/s-fg/iqahqt.jpg)
 * Jumper Wires
+* 
   ![3](https://static.cytron.io/image/cache/catalog/products/WR-JW-40/Raspberry-Pi-3-Dupont-Line-120pcs-20cm-Male-to-Male-Male-to-Female-Female-to-Female-800x800.jpg)
 * DHT22 AM2302 Module
+* 
   ![3](https://raspberrypithailand.com/storage/images/4m8HEfpyZUzyQQY77EO0vit7oe6d2XOk8zVsOBhR.jpg)
 * MQ-2 Smoke Gas Sensor
+* 
   ![3](https://www.tido.tech/wp-content/uploads/2020/09/l1.jpg)
 
 # หลักการทำงาน
