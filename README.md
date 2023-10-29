@@ -47,9 +47,6 @@
 # Youtube สาธิตการทำงาน
 [(https://youtu.be/x0eEku9MZAM?si=S6bpmrmP42znV-e0)](https://youtu.be/x0eEku9MZAM?si=S6bpmrmP42znV-e0)
 
-# Source Code
-ใส่รูป
-
 # Member
 1.     นายจารุวิทย์ จงเชื่อกลาง 65070032
 2.     นางสาวจีนะ เกิดแก้ว 65070038
